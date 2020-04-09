@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-typescript-babel-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-typescript": "^7.9.0",
+    "@nuxt/babel-preset-app": "^2.12.2",
+    "babel-plugin-vuex-simple": "git+https://github.com/yepninja/babel-plugin-vue-hot-reload.git"
+  }
+}
